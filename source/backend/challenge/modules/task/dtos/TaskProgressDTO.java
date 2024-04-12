@@ -13,5 +13,4 @@ public class TaskProgressDTO {
 
 	private Long id;
 	private int progress;
-
 }
